@@ -1,5 +1,5 @@
 [{
-  id:0001,
+  id:1,
   title: "2 States",
   author: "Chetan Bhagat",
   size: 0.86,
@@ -7,7 +7,7 @@
   desc: "It is the story about a couple coming from two different states in India, who face hardships in convincing their parents to approve of their marriage. Bhagat wrote this novel after quitting his job as an investment banker."
 },
   {
-    id:0002,
+    id:2,
     title: "The Immortals of Meluha",
     author: "Amish Tripathi",
     size: 2.47,
@@ -15,7 +15,7 @@
     desc: "Meluha is a near perfect empire, created many centuries earlier by Lord Ram, one of the greatest Hindu kings that ever lived. However, the once proud empire and its Suryavanshi rulers face severe crisis as its primary river, Saraswati, was slowly drying to extinction."
   },
   {
-    id:0003,
+    id:3,
     title: "One Indian Girl",
     author: "Chetan Bhagat",
     size: 1.17,
@@ -23,7 +23,7 @@
     desc: "One Indian Girl is the story of Radhika Mehta, a worker at the Distressed Debt group of Goldman Sachs, the investment bank. The book begins with Radhika making arrangements regarding her marriage with Brijesh Gulati who works in the Facebook company in San Francisco."
   },
   {
-    id:0004,
+    id:4,
     title: "The Secret of the Nagas",
     author: "Amish Tripathi",
     size: 2.63,
@@ -31,7 +31,7 @@
     desc: "The Secret of the Nagas is the second book of Amish Tripathi, second book of Amishverse, and also the second book of Shiva Trilogy. The story takes place in the imaginary land of Meluha and narrates how the inhabitants of that land are saved from their wars by a nomad named Shiva."
   },
   {
-    id:0005,
+    id:5,
     title: "The Girl in Room 105",
     author: "Chetan Bhagat",
     size: 1.35,
@@ -39,7 +39,7 @@
     desc: "The Girl in Room 105 is the eighth novel and the tenth book overall written by the Indian author Chetan Bhagat. The book became a bestseller based on prearranged sales alone. It tells about a IIT coaching class tutor who goes to wish his ex-girlfriend on her birthday and finds her murdered."
   },
   {
-    id:0006,
+    id:6,
     title: "The Oath of the Vayuputras",
     author: "Amish Tripathi",
     size: 1.70,
@@ -47,10 +47,66 @@
     desc: "On meeting Brahaspati at the Naga capital of Panchavati, Shiva comes to know about the evil 'Somras', and its ill effects on the people of India. Brahaspati explains that the large amounts of water required to manufacture Somras has resulted in the depletion of the Saraswati River's water."
   },
   {
-    id:0007,
+    id:7,
     title: "One Arranged Murder",
     author: "Chetan Bhagat",
     size: 2.00,
     language: "English",
     desc: "The book follows two best friends who have a detective agency. Keshav and Saurabh live together, work together and are close, despite their differences. Saurabh is to marry Prerna, and though it's an arranged marriage they seem very much in love."
+  },
+  {
+    id:8,
+    title: "The Adventures of Feluda vol 1",
+    author: "Satyajit Ray",
+    size: 2.92,
+    language: "English",
+    desc: "Mitter (Feluda). In his escapades, Feluda is accompanied by his cousin Topshe and the bumbling crime writer Lalmohan Ganguly (Jatayu). From Jaisalmer to Simla, from the Ellora Caves to Varanasi, the trio traverse fascinating locales to unravel one devious crime after another."
+  },
+  {
+    id:9,
+    title: "The Adventures of Feluda vol 2",
+    author: "Satyajit Ray",
+    size: 2.74,
+    language: "English",
+    desc: "Accompanied by his cousin Topshe and the bumbling crime writer Lalmohan Ganguly (Jatayu), Feluda travels from Puri to Kedarnath, from Kathmandu to London in his pursuit of culprits; he tracks down Napoleon's last letter, a forgotten painting by Tintoretto and a stolen manuscript."
+  },
+  {
+    id:10,
+    title: "Dead Meat",
+    author: "Filip Kerr",
+    size: 0.90,
+    language: "English",
+    desc: "Private eye Arjun Arora works the streets of Delhi dealing with the shady underbelly of the capital city. Hired to track down a missing person, Arjun stumbles upon a gruesome murder where the suspects seem to be linked to something larger and m. A young accountant missing with a suitcase full of cash."
+  },
+  {
+    id:11,
+    title: "The Krishna Key",
+    author: "Ashwin Sanghi",
+    size: 2.73,
+    language: "English",
+    desc: "The Krishna Key centers around Professor Ravi Mohan Saini, the protagonist and a historian who has been accused of the murder of his childhood friend Anil Varshney, a famous archaeologist who has managed to decipher the script of Indus Valley seals."
+  },
+  {
+    id:12,
+    title: "The Rozabal Line",
+    author: "Ashwin Sanghi",
+    size: 1.41,
+    language: "English",
+    desc: "The Rozabal Line is a thriller fiction novel by Ashwin Sanghi, written under the pseudonym Shawn Haigins, that deals with the story of Jesus having survived the crucifixion and settled down in India. The fictional element is in the same vein as Dan Brown's The Da Vinci Code."
+  },
+  {
+    id:13,
+    title: "The White Tiger",
+    author: "Aravind Adiga",
+    size: 0.96,
+    language: "English",
+    desc: "The White Tiger Summary. The White Tiger is the story of Balram Halwai's life as a self-declared “self-made entrepreneur”: a rickshaw driver's son who skillfully climbs India's social ladder to become a chauffer and later a successful businessman."
+  },
+  {
+    id:14,
+    title: "The Da Vinci Vode",
+    author: "Dan Brown",
+    size: 1.37,
+    language: "English",
+    desc: "The Da Vinci Code follows 'symbologist' Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris causes them to become involved in a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ and Mary Magdalene having had a child together."
   }]
